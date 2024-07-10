@@ -14,7 +14,7 @@ This is a simple chat application built using Node.js, Express, and Socket.IO. T
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/socket.io-chat.git
+   git clone https://github.com/MahmoudDahdouh/socket.io-chat
    cd socket.io-chat
    ```
 
